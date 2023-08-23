@@ -1021,6 +1021,11 @@
       },
       {
         "internalType": "uint8",
+        "name": "initialSupply",
+        "type": "uint8"
+      },
+      {
+        "internalType": "uint8",
         "name": "decimals",
         "type": "uint8"
       },
